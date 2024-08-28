@@ -1,16 +1,101 @@
-## Hi there 👋
+<h3 align="left">Hi! My name is LuCheMaru and I'm a person, from somewhere from Earth</h3>
 
-<!--
-**LuCheMaru/LuCheMaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img height="200" src="https://media.tenor.com/QChd-5KLvMgAAAAi/the-binding.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://media.tenor.com/2IVsIx3_EtMAAAAi/binding-of.gif"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.redd.it/kgegurof1pe81.gif"  />
+
+###
+
+<img align="left" height="150" src="https://media.tenor.com/nUxXUMkpZoMAAAAi/the-binding.gif"  />
+
+###
+
+<div align="center">
+  <img height="150" src="https://media.tenor.com/cH6BmwqNCzUAAAAi/the-binding.gif"  />
+</div>
+
+###
+
+<img align="left" height="150" src="https://media.tenor.com/jkGjDqyxAKcAAAAi/the-binding.gif"  />
+
+###
+
+<img align="right" height="150" src="https://media.tenor.com/bT0-3NadazwAAAAi/the-binding.gif"  />
+
+###
+
+<div align="center">
+  <img height="150" src="https://media.tenor.com/b8N1bGPYYl4AAAAi/the-binding.gif"  />
+</div>
+
+###
+
+<img align="left" height="150" src="https://media.tenor.com/bkHY4-Okl3MAAAAi/the-binding.gif"  />
+
+###
+
+<img align="right" height="150" src="https://media.tenor.com/WTQw-Pp-n1AAAAAi/the-binding.gif"  />
+
+###
+
+<div align="center">
+  <img height="150" src="https://media.tenor.com/m66xoV0Sa5kAAAAi/binding-of.gif"  />
+</div>
+
+###
+
+<img align="left" height="150" src="https://media.tenor.com/-0JLjiaBk-YAAAAi/the-binding.gif"  />
+
+###
+
+<img align="right" height="150" src="https://media.tenor.com/kbr9VGp8S8AAAAAi/binding-of.gif"  />
+
+###
+
+<div align="center">
+  <img height="150" src="https://media.tenor.com/2duE1ZkWR2AAAAAi/binding-of.gif"  />
+</div>
+
+###
+
+<img align="left" height="150" src="https://media.tenor.com/Xyx1ayMcd48AAAAi/the-binding.gif"  />
+
+###
+
+<img align="right" height="150" src="https://media.tenor.com/a4-IStqBRXYAAAAi/binding-of.gif"  />
+
+###
+
+<div align="center">
+  <img height="150" src="https://media.tenor.com/bQgTN_4NI6YAAAAi/binding-of.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://media.tenor.com/OsdHTDsV2gMAAAAi/binding-of.gif"  />
+</div>
+
+###
