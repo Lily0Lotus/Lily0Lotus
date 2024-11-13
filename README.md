@@ -1,4 +1,4 @@
-<h3 align="left">Hi! My name is Lily0Lotus and I'm a person, from somewhere from Earth</h3>
+<h3 align="left">Hi! My name is Lily0Lotus and I'm a person from somewhere from Earth</h3>
 
 ###
 
